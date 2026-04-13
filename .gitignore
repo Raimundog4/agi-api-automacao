@@ -1,0 +1,22 @@
+# =========================
+# Maven / Build
+# =========================
+target/
+*.jar
+*.war
+*.ear
+
+*.log
+logs/
+
+.classpath
+.project
+.settings/
+
+cucumber-reports/
+test-output/
+
+screenshots/
+
+*.tmp
+*.swp
